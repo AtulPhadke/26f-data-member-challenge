@@ -1,0 +1,6 @@
+# Enough to do the challenge in Python. Add whatever else you need.
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
