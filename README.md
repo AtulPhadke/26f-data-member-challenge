@@ -37,11 +37,10 @@ These additions should be built on an already solid core submission.
 
 ## Getting started
 
-You're working in your own private repository, created when you accepted the
-assignment. Clone it and go:
+This is a template repository, please fork it to create your own repository and go:
 
 ```bash
-git clone <your-assignment-repo-url>
+git clone <your-new-repo-url>
 ```
 
 ```bash
@@ -57,7 +56,7 @@ submission step.
 
 Your repo should contain:
 
-1. **Your code.** However you'd normally organise it — a notebook, a script, a
+1. **Your code.** However you'd normally organize it — a notebook, a script, a
    small project. It doesn't need to be production-grade.
 2. **Your predictions or your metrics** — enough that we can see how well it
    worked, in whatever form makes sense for what you built.
